@@ -13,12 +13,12 @@ Ich würde gerne ein Projekt machen, welches auf Projekt orientiertes Programmie
 
 
 ## 16.08.2024
-- [ ] Revision von Modul 320
-- [ ] Modul 320 - 4204
+- [X] Revision von Modul 320
+- [X] Modul 320 - 4204
 
 ## 23.08.2024
-- [ ] Modul 320 Revison von letzterwoche
-- [ ] Modul 320 - 4207
+- [X] Modul 320 Revison von letzterwoche
+- [X] Modul 320 - 4207
 
 ## 06.09.2024
 - [ ] Modul 320 Promillie rechner
