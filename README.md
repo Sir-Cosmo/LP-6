@@ -20,6 +20,11 @@ Ich würde gerne ein Projekt machen, welches auf Projekt orientiertes Programmie
 - [X] Modul 320 Revison von letzterwoche
 - [X] Modul 320 - 4207
 
+## 30.08.2024
+- [X] Modul 320 Promillie rechner
+- [X] Modul 320 - 4208
+
 ## 06.09.2024
-- [ ] Modul 320 Promillie rechner
-- [ ] Modul 320 - 4208
+- [ ] Modul 320 Hz 2
+- [ ] Modul 320 Hz 2
+
