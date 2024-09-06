@@ -25,6 +25,11 @@ Ich würde gerne ein Projekt machen, welches auf Projekt orientiertes Programmie
 - [X] Modul 320 - 4208
 
 ## 06.09.2024
+- [X] Modul 320 Hz 2
 - [ ] Modul 320 Hz 2
-- [ ] Modul 320 Hz 2
+(4214 noch nicht 100% Fertig)
+
+## 13.09.2024
+- [ ] Modul 320 Hz 2 (4214)
+- [ ] Modul 320 Hz 3
 
