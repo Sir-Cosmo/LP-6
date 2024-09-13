@@ -30,6 +30,10 @@ Ich würde gerne ein Projekt machen, welches auf Projekt orientiertes Programmie
 (4214 noch nicht 100% Fertig)
 
 ## 13.09.2024
-- [ ] Modul 320 Hz 2 (4214)
+- [X] Modul 320 Hz 2 (4214)
+- [X] Modul 320 Hz 3
+
+## 20.09.2024
+- [ ] Modul 320 Hz 3 
 - [ ] Modul 320 Hz 3
 
