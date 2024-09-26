@@ -34,6 +34,10 @@ Ich würde gerne ein Projekt machen, welches auf Projekt orientiertes Programmie
 - [X] Modul 320 Hz 3
 
 ## 20.09.2024
-- [ ] Modul 320 Hz 3 
-- [ ] Modul 320 Hz 3
+- [X] Modul 320 Hz 3 
+- [X] Modul 320 Hz 3
+## 27.09.2024
+- [ ] Modul 320 Hz 4
+- [ ] Modul 320 Hz 4
+
 
