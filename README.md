@@ -36,6 +36,15 @@ Ich würde gerne ein Projekt machen, welches auf Projekt orientiertes Programmie
 ## 20.09.2024
 - [X] Modul 320 Hz 3 
 - [X] Modul 320 Hz 3
+
+# DSL Nachweis
+vWas haben sie mitgenommen? Hatten sie Probleme; wo?
+Ich habe gelernt, wie man Code richtig dokumentiert im Auftrag LA_320_4215. Damit hatte ich keine grossen Probleme.
+Brauchen Sie Unterstützung; wo?
+Aktuell nicht.
+Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nicht generisch)
+Ich habe meinen Code im Promillerechner (Auftrag 4209) so überarbeitet, dass er hauptsächlich selbsterklärend ist und noch ein wenig Dokumentation hinzugefügt.
+
 ## 27.09.2024
 - [ ] Modul 320 Hz 4
 - [ ] Modul 320 Hz 4
