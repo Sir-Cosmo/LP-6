@@ -46,7 +46,11 @@ Erbringen Sie den Nachweis mit persönlichem Bezug (kritisch, differenziert, nic
 Ich habe meinen Code im Promillerechner (Auftrag 4209) so überarbeitet, dass er hauptsächlich selbsterklärend ist und noch ein wenig Dokumentation hinzugefügt.
 
 ## 27.09.2024
-- [ ] Modul 320 Hz 4
-- [ ] Modul 320 Hz 4
+- [X] Modul 320 Hz 4
+- [X] Modul 320 Hz 4
+
+## 27.09.2024
+- [ ] Modul 320 OBA (LeftRightCenter Spiel Automatisiert)
+- [ ] Modul 320 HZ 5
 
 
