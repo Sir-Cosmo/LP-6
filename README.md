@@ -49,7 +49,7 @@ Ich habe meinen Code im Promillerechner (Auftrag 4209) so überarbeitet, dass er
 - [X] Modul 320 Hz 4
 - [X] Modul 320 Hz 4
 
-## 27.09.2024
+## LB 7 Anfang
 - [ ] Modul 320 OBA (LeftRightCenter Spiel Automatisiert)
 - [ ] Modul 320 HZ 5
 
