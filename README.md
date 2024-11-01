@@ -38,7 +38,7 @@ Ich würde gerne ein Projekt machen, welches auf Projekt orientiertes Programmie
 - [X] Modul 320 Hz 3
 
 # DSL Nachweis
-vWas haben sie mitgenommen? Hatten sie Probleme; wo?
+Was haben sie mitgenommen? Hatten sie Probleme; wo?
 Ich habe gelernt, wie man Code richtig dokumentiert im Auftrag LA_320_4215. Damit hatte ich keine grossen Probleme.
 Brauchen Sie Unterstützung; wo?
 Aktuell nicht.
